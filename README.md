@@ -1,2 +1,12 @@
 # python-learning-journey
-Documenting my day-by-day Python learning journey with hands-on practice, notes, and mini exercises to strengthen my programming skills.
+# 🐍 Python Learning Journey
+
+I am learning Python from scratch and documenting my daily progress here.
+
+## 📅 Progress
+- Day 1: Basics
+- Day 2: Operators
+- Day 3: Conditional Statements
+
+## 🎯 Goal
+To become strong in Python for backend and AI development.
