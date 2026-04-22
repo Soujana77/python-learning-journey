@@ -36,3 +36,21 @@
 
 ## Issue Faced
 - Understood type conversion is important when using input()
+
+# Day 3 – Python Practice Set
+
+## Topics Covered
+- Took user input and displayed message
+- Used string formatting for letter template
+- Detected double spaces in a string
+- Replaced double spaces with single space
+- Used escape sequences (\n, \t) for formatting
+
+## Key Learnings
+- Strings can be modified using replace()
+- in keyword helps to check substring
+- Escape sequences improve output formatting
+- Input can be used inside strings
+
+## Issue Faced
+- Handling spaces in strings and formatting output
