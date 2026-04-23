@@ -54,3 +54,21 @@
 
 ## Issue Faced
 - Handling spaces in strings and formatting output
+
+# Day 4 – Python Practice Set
+
+## Topics Covered
+- Stored user input in a list (fruits)
+- Took marks of students and stored in list
+- Learned that tuples are immutable (cannot be changed)
+- Calculated sum of elements in a list
+- Counted number of zeros in a tuple
+
+## Key Learnings
+- Lists are mutable (can be changed)
+- Tuples are immutable (cannot be changed)
+- Used sum() for adding list elements
+- Used count() to count occurrences in tuple
+
+## Issue Faced
+- Difference between list and tuple behavior
