@@ -72,3 +72,28 @@
 
 ## Issue Faced
 - Difference between list and tuple behavior
+
+# Day 5 – Python Practice Set
+
+## Topics Covered
+- Created dictionary (Hindi → English words)
+- Took user input and worked with sets
+- Learned about unique values in a set
+- Checked difference between int and string in sets
+- Performed operations on sets (add)
+- Understood empty set vs empty dictionary
+- Used dictionary with user input (friends & languages)
+- Learned behavior of duplicate keys/values
+- Tried storing different data types in sets
+
+## Key Learnings
+- Sets store only unique values
+- { } creates empty dictionary, not set
+- set() is used to create empty set
+- Dictionary keys must be unique
+- Values in dictionary can be same
+- Sets cannot contain mutable types like lists
+
+## Issue Faced
+- Confusion between set and dictionary syntax
+- Understanding behavior of duplicates
