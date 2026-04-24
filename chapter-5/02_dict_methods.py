@@ -15,3 +15,5 @@ marks.update({"Rohan":99 , "Sanvi":70}) #update() is a dictionary method that up
 print(marks)    
 marks.get("Rohan")#get() is a dictionary method that returns the value of the specified key. If the key does not exist in the dictionary, it returns None (or a specified default value).
 print(marks.get("Rohan"))
+
+
