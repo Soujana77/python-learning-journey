@@ -1,0 +1,3 @@
+#Can you change the values inside a list which is contained in a set S
+
+s = { 8, 7, 12, "Harry", [1.2,3]} #No, we cannot change the values inside a list which is contained in a set S because sets in Python are immutable, which means that their elements cannot be changed after they are added to the set. In this case, the list [1.2, 3] is an element of the set s, and we cannot modify it directly. If we want to change the values inside the list, we would need to remove the list from the set, modify it, and then add it back to the set. However, this is not possible because sets do not allow mutable elements like lists. Therefore, we cannot change the values inside a list that is contained in a set.
