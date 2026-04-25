@@ -97,3 +97,25 @@
 ## Issue Faced
 - Confusion between set and dictionary syntax
 - Understanding behavior of duplicates
+
+# Day 6 – Python Practice Set
+
+## Topics Covered
+- Found greatest of four numbers
+- Checked pass/fail based on conditions
+- Detected spam keywords in text
+- Checked username length
+- Searched for a name in a list
+- Calculated student grade using conditions
+- Checked if a post contains a specific word
+
+## Key Learnings
+- Used if-else and elif for decision making
+- Logical operators (and, or) for multiple conditions
+- in keyword to search in strings and lists
+- len() to find length of string
+- Importance of condition checking in real problems
+
+## Issue Faced
+- Writing multiple conditions correctly
+- Managing logic for grade and pass criteria
