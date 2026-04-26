@@ -119,3 +119,25 @@
 ## Issue Faced
 - Writing multiple conditions correctly
 - Managing logic for grade and pass criteria
+
+# Day 7 – Python Practice Set
+
+## Topics Covered
+- Used for and while loops
+- Printed multiplication table
+- Worked with lists and conditions
+- Checked prime numbers
+- Calculated sum of natural numbers
+- Calculated factorial
+- Printed star patterns
+
+## Key Learnings
+- for loop is used when range is known
+- while loop is used with conditions
+- range() helps control loop iterations
+- break is used to exit loop
+- Nested logic is useful for patterns
+
+## Issue Faced
+- Understanding loop flow in patterns
+- Writing correct logic for prime numbers
