@@ -141,3 +141,27 @@
 ## Issue Faced
 - Understanding loop flow in patterns
 - Writing correct logic for prime numbers
+
+# Day 8 – Python Practice Set
+
+## Topics Covered
+- Created and used functions
+- Found greatest of three numbers using function
+- Converted Celsius to Fahrenheit
+- Used end parameter in print()
+- Implemented recursion (sum of n natural numbers)
+- Printed pattern using function
+- Converted inches to cm
+- Modified list using function
+- Printed multiplication table using function
+
+## Key Learnings
+- Functions help reuse code
+- return is used to send value back
+- end in print() controls output format
+- Recursion means function calling itself
+- Functions make code clean and modular
+
+## Issue Faced
+- Understanding recursion logic
+- Difference between return and print
