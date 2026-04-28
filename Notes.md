@@ -165,3 +165,22 @@
 ## Issue Faced
 - Understanding recursion logic
 - Difference between return and print
+
+# Day 9 – Snake Water Gun Project
+
+## Topics Covered
+- Used random module
+- Built Snake-Water-Gun game
+- Took user input and mapped choices using dictionary
+- Compared conditions to find winner
+- Displayed results using f-strings
+- Simplified game logic using mathematical condition
+
+## Key Learnings
+- random.choice() selects random value
+- Dictionaries help map values easily
+- f-strings improve output formatting
+- Complex if-else conditions can be simplified
+
+## Issue Faced
+- Finding and simplifying game logic
