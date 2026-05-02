@@ -184,3 +184,29 @@
 
 ## Issue Faced
 - Finding and simplifying game logic
+
+# Day 10,11,12 – Python Practice Set
+
+## Topics Covered
+- Read and wrote files using Python
+- Checked words inside text files
+- Updated high score using file handling
+- Generated multiplication tables into files
+- Replaced and censored words in files
+- Searched text inside log files
+- Found line numbers in files
+- Copied file contents
+- Compared contents of two files
+- Cleared file content
+- Renamed files using Python
+
+## Key Learnings
+- Used open() with r, w modes
+- read(), write(), and readlines() functions
+- File handling helps store permanent data
+- replace() is useful for text modification
+- Python can automate file operations
+
+## Issue Faced
+- Understanding file modes
+- Managing multiple file operations
