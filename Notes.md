@@ -210,3 +210,25 @@
 ## Issue Faced
 - Understanding file modes
 - Managing multiple file operations
+
+# Day 13,14,15,16 practice set
+
+## Topics Covered
+- Worked with inheritance and multilevel inheritance
+- Created 2D and 3D vector classes
+- Used method overriding
+- Learned property decorators and setters
+- Implemented operator overloading
+- Performed vector and complex number operations
+- Used special methods like __str__() and __len__()
+
+## Key Learnings
+- Child classes can inherit properties from parent classes
+- @property provides controlled access to attributes
+- Operators can be customized using dunder methods
+- __str__() controls object printing
+- __len__() customizes len() behavior
+
+## Issue Faced
+- Understanding inheritance flow
+- Writing logic for operator overloading
