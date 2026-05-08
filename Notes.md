@@ -232,3 +232,22 @@
 ## Issue Faced
 - Understanding inheritance flow
 - Writing logic for operator overloading
+
+# Day 17 Number Guessing Game Project
+
+## Topics Covered
+- Used random module to generate random numbers
+- Took user input using input()
+- Used loops for repeated guessing
+- Applied if-else conditions
+- Counted number of attempts made by user
+
+## Key Learnings
+- random.randint() generates random numbers
+- while loop helps repeat until condition is true
+- Conditions can guide user with hints
+- Counter variable tracks attempts
+
+## Issue Faced
+- Managing loop conditions correctly
+- Comparing user guess with actual number
