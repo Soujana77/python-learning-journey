@@ -9,8 +9,7 @@ def http_status(status):
         case _:
             return "Unknown Status"
         
-        
- print(http_status(5007))
+         print(http_status(5007))
 
  # DICTIONARY MERGE AND UPDATE OPERATIONS IN PYTHON
 
